@@ -2,7 +2,7 @@ public class Pattern
 {              
 public static void main(String[] args)   
 {  
-int n = 8;    //n is the number of rows you want to print  
+int n = 8;    
 for (int i = 0; i < n; i++)   
 {  
 int number = 1;  
